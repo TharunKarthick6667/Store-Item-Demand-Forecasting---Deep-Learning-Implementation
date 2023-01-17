@@ -1,5 +1,3 @@
-# Getting Started
-The code is run in the Colab environment https://colab.research.google.com If you couldn't open the .ipynb file, please paste the link of the file to here: https://nbviewer.jupyter.org/
 # Techniques:
 Feature Engineering:
 1. create several datetime-related features in order to transform the date to several integers, which is more convinient for us to train models.
